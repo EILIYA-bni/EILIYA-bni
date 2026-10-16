@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eiliya Babakhani 👋
 
-<!--
-**EILIYA-bni/EILIYA-bni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** passionate about programming, web design, and building useful digital experiences.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real projects, solving problems, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Working On
+
+- Building and improving WordPress websites.
+- Developing projects with HTML, CSS, and JavaScript.
+- Exploring UI/UX design and modern web technologies.
+- Expanding my knowledge of software development and cybersecurity.
+
+### 🛠️ Languages & Tools
+
+- **Languages:** HTML, CSS, JavaScript, Python, C
+- **Tools & Platforms:** Git, GitHub, VS Code, WordPress
+- **Design:** Figma, UI/UX Design
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/eiliya-babakhani-7a5b7b442/)
+- **Email:** EILIYABNI2020eee@gmail.com
