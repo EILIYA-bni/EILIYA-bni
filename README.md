@@ -1,3 +1,5 @@
+![GitHub Banner](./github-baner.png)
+
 # Hi, I'm Eiliya Babakhani 👋
 
 I'm a **Web Developer** passionate about programming, web design, and building useful digital experiences.
